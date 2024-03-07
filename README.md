@@ -1,5 +1,5 @@
 Hello World
-- 👋 Hi, I’m Jason: @J-a-son
+- 👋 Hi, I’m Jason Clarke: @J-a-son
 - 👀 I’m interested in GIS
 - 🌱 I’m currently reading Applied GIS at the University of Sheffield
 - 💞️ I’m not looking to collaborate yet 
